@@ -3,8 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cjamcu" alt="cjamcu" /> </p>
 
-- 🔭 I’m currently working on [getx-snippets-intelliJ](https://github.com/cjamcu/getx-snippets-intelliJ)
-- 💬 Ask me about **flutter,kotlin,dart**
+- 💬 Ask me about **flutter,dart,typescript , react**
 
 - 📫 How to reach me **cjamcu@gmail.com**
 
