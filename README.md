@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Carlos Javier</h1>
-<h3 align="center">A passionate Mobile developer from Colombia</h3>
+<h3 align="center">A passionate Software developer  from Colombia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cjamcu" alt="cjamcu" /> </p>
 
-- 💬 Ask me about **flutter,dart,typescript , react**
+- 💬 Ask me about **flutter,dart,next-js,nest-js,react**
 
 - 📫 How to reach me **cjamcu@gmail.com**
 
